@@ -1,0 +1,10 @@
+algo1 - 1.cpp
+algo1 - 2.cpp
+algo1 - 3.cpp
+a.out
+bo1 - 1.cpp
+c1 - 1.h
+c1.h
+checklist.txt
+func1 - 1.cpp
+main1 - 1.cpp

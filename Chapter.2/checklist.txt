@@ -1,0 +1,29 @@
+algo2 - 1.cpp
+algo2 - 2.cpp
+algo2 - 3.cpp
+algo2 - 4.cpp
+a.out
+bo2 - 1.cpp
+bo2 - 2.cpp
+bo2 - 3.cpp
+bo2 - 4.cpp
+bo2 - 5.cpp
+bo2 - 6.cpp
+bo2 - 7.cpp
+c1.h
+c2 - 1.h
+c2 - 2.h
+c2 - 3.h
+c2 - 4.h
+checklist.txt
+func2 - 1.cpp
+func2 - 2.cpp
+func2 - 3.cpp
+func2 - 4.cpp
+main2 - 1.cpp
+main2 - 2.cpp
+main2 - 3.cpp
+main2 - 4.cpp
+main2 - 5.cpp
+main2 - 6.cpp
+output.txt

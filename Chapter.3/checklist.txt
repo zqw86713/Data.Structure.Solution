@@ -1,0 +1,26 @@
+algo3 - 1.cpp
+algo3 - 2.cpp
+algo3 - 3.cpp
+algo3 - 4.cpp
+algo3 - 5.cpp
+algo3 - 6.cpp
+algo3 - 7.cpp
+algo3 - 8.cpp
+a.out
+bo2 - 2.cpp
+bo3 - 1.cpp
+bo3 - 2.cpp
+bo3 - 3.cpp
+bo3 - 4.cpp
+c1.h
+c3 - 1.h
+c3 - 2.h
+c3 - 3.h
+checklist.txt
+func2 - 2.cpp
+func3 - 1.cpp
+func3 - 2.cpp
+main3 - 1.cpp
+main3 - 2.cpp
+main3 - 3.cpp
+main3 - 4.cpp
